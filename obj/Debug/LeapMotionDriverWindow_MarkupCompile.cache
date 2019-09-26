@@ -1,0 +1,20 @@
+﻿LeapMotionDriverWindow
+
+
+winexe
+C#
+.cs
+D:\Homework stuff\smartCar-master\smartCar-master\LeapMotionDriverWindow\obj\Debug\
+LeapMotionDriverWindow
+none
+false
+DEBUG;TRACE
+D:\Homework stuff\smartCar-master\smartCar-master\LeapMotionDriverWindow\App.xaml
+10-1769449378
+1561964390716
+191159796404
+185720694
+Controls\CircularProgressBar.xaml;DockMainScene.xaml;DockView.xaml;MenuWindow.xaml;Menu\VideoMenu.xaml;Menu\GMapMenu.xaml;Menu\MainMenu.xaml;Menu\MenuButton.xaml;StatusView.xaml;MainWindow.xaml;
+
+True
+
